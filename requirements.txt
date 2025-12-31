@@ -1,0 +1,19 @@
+# Web Framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# LlamaIndex Core and Azure OpenAI
+llama-index
+llama-index-llms-azure-openai
+llama-index-storage-chat-store-postgres
+
+# Database
+psycopg2-binary
+SQLAlchemy
+
+# Environment Variables
+python-dotenv
+
+# Data Validation
+pydantic
