@@ -9,7 +9,7 @@ llama-index-llms-azure-openai
 llama-index-storage-chat-store-postgres
 
 # Database
-psycopg2-binary
+psycopg[binary]
 SQLAlchemy
 
 # Environment Variables
